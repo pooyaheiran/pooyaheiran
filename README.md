@@ -4,4 +4,4 @@
 - 💬 Ask me about nothing
 - 📫 How to reach me: pooyaheiran@gmail.com
 
-![](https://komarev.com/ghpvc/?username=pooyaheiran)
+![](https://komarev.com/ghpvc/?username=pooyaheiran&color=green)
